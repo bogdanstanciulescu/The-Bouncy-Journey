@@ -18,7 +18,7 @@ But be careful... your soul is the price of defeat.
 
 You only get **one chance to bounce back** per level by reviving yourself.
 
-Die one more time, and all your progress is lost.
+Die one more time, and **all your progress is lost**.
 
 Choose your moves wisely. Every life counts!
 
@@ -42,7 +42,7 @@ Ai grijă, totuși... sufletul tău este prețul înfrângerii.
 
 Ai la dispoziție **o singură șansă de a reveni la viață pe nivel**, folosindu-ți abilitatea de a te reînvia.
 
-Dacă mori încă o dată, tot progresul tău este pierdut.
+Dacă mori încă o dată, **tot progresul tău este pierdut**.
 
 Alege-ți mișcările cu grijă. Fiecare viață contează!
 
