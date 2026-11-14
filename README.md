@@ -79,3 +79,9 @@ background design: inspiration: https://ro.pinterest.com/
 
 soundtrack: https://freesound.org/people/juskiddink/
 
+
+# ECHIPA:
+programator: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
+designer grafica: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
+designer sunet: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
+
