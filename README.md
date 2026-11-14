@@ -70,10 +70,10 @@ Distracție plăcută! 🎮
 
 # Surse:
 
-character sprites: Main character https://primitive-pixels-games.itch.io/hooded-seeker
+character sprites: Protagonistul https://primitive-pixels-games.itch.io/hooded-seeker
 
 
-background design: inspiration: https://ro.pinterest.com/
+background design: inspiratie: https://ro.pinterest.com/
                    graphics: Andreia Nica
 
 
