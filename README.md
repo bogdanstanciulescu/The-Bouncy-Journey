@@ -36,7 +36,7 @@ background design: inspiration: https://ro.pinterest.com/
                    graphics: Andreia Nica
 
 
-source soundtrack: https://freesound.org/people/juskiddink/
+source soundtrack: https://freesound.org/people/juskiddink/sounds/68378/
 
 # The Team:
 programmer: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
@@ -77,7 +77,7 @@ background design: inspiratie: https://ro.pinterest.com/
                    graphics: Andreia Nica
 
 
-soundtrack sursa: https://freesound.org/people/juskiddink/
+soundtrack sursa: https://freesound.org/people/juskiddink/sounds/68378/
 
 
 # Echipa:
