@@ -38,7 +38,7 @@ background design: inspiration: https://ro.pinterest.com/
 
 soundtrack: https://freesound.org/people/juskiddink/
 
-# THE TEAM:
+# The Team:
 programmer: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
 graphic designer: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
 sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
@@ -68,7 +68,7 @@ Alege-ți mișcările cu grijă. Fiecare viață contează!
 
 Distracție plăcută! 🎮
 
-# surse:
+# Surse:
 
 character sprites: Main character https://primitive-pixels-games.itch.io/hooded-seeker
 
@@ -80,7 +80,7 @@ background design: inspiration: https://ro.pinterest.com/
 soundtrack: https://freesound.org/people/juskiddink/
 
 
-# ECHIPA:
+# Echipa:
 programator: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
 designer grafica: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
 designer sunet: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
