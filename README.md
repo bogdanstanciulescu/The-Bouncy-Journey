@@ -1,19 +1,11 @@
 # ⚔️ The Bouncy Journey
 
-A simple platformer that evolved into a Hollow Knight-inspired adventure.
-
 # ENGLISH:
 ## About the Game
 
-The Bouncy Journey started as a simple platformer game, but ultimately evolved into a project inspired by Hollow Knight. It was created purely for fun and the joy of developing games.
+The Bouncy Journey is a simple platformer game.
 
-## 🎮 Gameplay
-
-The objective is simple: **defeat all enemies**, claim victory, and save your soul from certain damnation!
-
-Your attacks are **melee-only**, and your health is finite. However, your agility should be more than enough to overcome any evil being standing in your way!
-
-But be careful... your soul is the price of defeat.
+The objective is simple: pass through the forest and take your soul back.
 
 ## 💀 One More Chance
 
@@ -48,15 +40,10 @@ sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>
 
 ## Despre Joc
 
-The Bouncy Journey a început ca un simplu joc de tip platformer, dar în cele din urmă a evoluat într-un proiect inspirat de Hollow Knight. A fost creat exclusiv din pasiune și pentru distracția de a dezvolta jocuri.
-
+The Bouncy Journey este un simplu joc de tip platformer.
 ## 🎮 Gameplay
 
-Obiectivul este simplu: **învinge toți inamicii**, obține victoria și salvează-ți sufletul de la damnarea eternă!
-
-Atacurile tale sunt exclusiv **corp la corp**, iar sănătatea este limitată. Cu toate acestea, agilitatea ta ar trebui să fie suficientă pentru a învinge orice ființă malefică îți iese în cale!
-
-Ai grijă, totuși... sufletul tău este prețul înfrângerii.
+Obiectivul este simplu: traverseaza padurea si rercupereaza-ti sufletul.
 
 ## 💀 Încă O Șansă
 
