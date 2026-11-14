@@ -29,7 +29,7 @@ source soundtrack: https://freesound.org/people/juskiddink/sounds/68378/
 # The Team:
 programmer: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
 graphic designer: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
-sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
+sound designer, asset designer and page editor: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
 
 
 # ROMANA:
@@ -62,5 +62,5 @@ soundtrack sursa: https://freesound.org/people/juskiddink/sounds/68378/
 # Echipa:
 programator: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
 designer grafica: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
-designer sunet: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
+designer sunet, designer de asset-uri si editor pagina: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
 
