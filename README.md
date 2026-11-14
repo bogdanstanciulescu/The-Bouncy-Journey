@@ -33,8 +33,7 @@ character sprites: Main character https://primitive-pixels-games.itch.io/hooded-
 
 
 background design: inspiration: https://ro.pinterest.com/
-                   graphics: Andreia Nica
-
+                 
 
 source soundtrack: https://freesound.org/people/juskiddink/sounds/68378/
 
@@ -74,7 +73,6 @@ character sprites: Protagonistul https://primitive-pixels-games.itch.io/hooded-s
 
 
 background design: inspiratie: https://ro.pinterest.com/
-                   graphics: Andreia Nica
 
 
 soundtrack sursa: https://freesound.org/people/juskiddink/sounds/68378/
