@@ -6,6 +6,7 @@
 The Bouncy Journey is a simple platformer game.
 
 The objective is simple: pass through the forest and take your soul back.
+Fail and it lost forever.
 
 ## 💀 One More Chance
 
@@ -43,7 +44,7 @@ sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>
 The Bouncy Journey este un simplu joc de tip platformer.
 ## 🎮 Gameplay
 
-Obiectivul este simplu: traverseaza padurea si rercupereaza-ti sufletul.
+Obiectivul este simplu: traverseaza padurea si rercupereaza-ti sufletul. Daca esuezi acesta va fi pierdut pe vecie.
 
 ## 💀 Încă O Șansă
 
