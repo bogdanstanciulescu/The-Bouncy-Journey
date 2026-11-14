@@ -20,8 +20,6 @@ Have fun! 🎮
 # sources:
 
 character sprites: Main Character: https://primitive-pixels-games.itch.io/hooded-seeker
-                   Enemies: https://skyflakes-lab.itch.io/free-monster-sprite-sheet
-
 
 background design: inspiration: https://ro.pinterest.com/
                  
@@ -54,9 +52,7 @@ Distracție plăcută! 🎮
 # Surse:
 
 character sprites: Protagonistul https://primitive-pixels-games.itch.io/hooded-seeker
-                  Inamici: https://skyflakes-lab.itch.io/free-monster-sprite-sheet
-
-
+                  
 background design: inspiratie: https://ro.pinterest.com/
 
 
