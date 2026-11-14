@@ -38,6 +38,9 @@ background design: inspiration: https://ro.pinterest.com/
 
 soundtrack: https://freesound.org/people/juskiddink/
 
+#THE TEAM: programmer: <a href="https://www.w3schools.com">Bogdan Stanciulescu</a>
+                       
+
 
 # ROMANA:
 
