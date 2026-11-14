@@ -24,6 +24,20 @@ Choose your moves wisely. Every life counts!
 
 Have fun! 🎮
 
+
+
+# sources:
+
+character sprites: Main character https://primitive-pixels-games.itch.io/hooded-seeker
+
+
+background design: inspiration: https://ro.pinterest.com/
+                   graphics: Andreia Nica
+
+
+soundtrack: https://freesound.org/people/juskiddink/
+
+
 # 🇷🇴
 
 ## Despre Joc
@@ -47,3 +61,15 @@ Dacă mori încă o dată, **tot progresul tău este pierdut**.
 Alege-ți mișcările cu grijă. Fiecare viață contează!
 
 Distracție plăcută! 🎮
+
+# sources:
+
+character sprites: Main character https://primitive-pixels-games.itch.io/hooded-seeker
+
+
+background design: inspiration: https://ro.pinterest.com/
+                   graphics: Andreia Nica
+
+
+soundtrack: https://freesound.org/people/juskiddink/
+
