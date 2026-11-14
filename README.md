@@ -8,7 +8,7 @@ The Bouncy Journey started as a simple platformer game, but ultimately evolved i
 
 ## 🎮 Gameplay
 
-The objective is simple: defeat all enemies, claim victory, and save your soul from certain damnation!
+The objective is simple: **defeat all enemies**, claim victory, and save your soul from certain damnation!
 
 Your attacks are **melee-only**, and your health is finite. However, your agility should be more than enough to overcome any evil being standing in your way!
 
