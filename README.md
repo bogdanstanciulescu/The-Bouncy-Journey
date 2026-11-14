@@ -39,9 +39,9 @@ background design: inspiration: https://ro.pinterest.com/
 soundtrack: https://freesound.org/people/juskiddink/
 
 # THE TEAM:
-programmer: <a href="https://www.w3schools.com">Bogdan Stanciulescu</a>
-graphic designer: <a href="https://www.w3schools.com">Nica Andreia</a>
-sound designer: <a href="https://www.w3schools.com">Dragomir Alex</a>                      
+programmer: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
+graphic designer: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
+sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
 
 
 # ROMANA:
