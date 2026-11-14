@@ -16,7 +16,7 @@ But be careful... your soul is the price of defeat.
 
 ## 💀 One More Chance
 
-You only get one chance to bounce back per level by reviving yourself.
+You only get ** one chance to bounce back ** per level by reviving yourself.
 
 Die one more time, and all your progress is lost.
 
