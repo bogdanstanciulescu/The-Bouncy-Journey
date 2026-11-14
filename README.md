@@ -2,7 +2,7 @@
 
 A simple platformer that evolved into a Hollow Knight-inspired adventure.
 
-## 🇬🇧 About the Game
+## ENGLISH About the Game
 
 The Bouncy Journey started as a simple platformer game, but ultimately evolved into a project inspired by Hollow Knight. It was created purely for fun and the joy of developing games.
 
@@ -38,7 +38,7 @@ background design: inspiration: https://ro.pinterest.com/
 soundtrack: https://freesound.org/people/juskiddink/
 
 
-# 🇷🇴
+# ROMANA
 
 ## Despre Joc
 
@@ -62,7 +62,7 @@ Alege-ți mișcările cu grijă. Fiecare viață contează!
 
 Distracție plăcută! 🎮
 
-# sources:
+# surse:
 
 character sprites: Main character https://primitive-pixels-games.itch.io/hooded-seeker
 
