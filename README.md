@@ -6,15 +6,12 @@
 The Bouncy Journey is a simple platformer game.
 
 The objective is simple: pass through the forest and take your soul back.
-Fail and it lost forever.
+Fail and you remain stuck in the grove forever, cursed to try or to fail for eternity.
 
-## 💀 One More Chance
+## You always bounce back!
 
-You only get **one chance to bounce back** per level by reviving yourself.
-
-Die one more time, and **all your progress is lost**.
-
-Choose your moves wisely. Every life counts!
+All you can do is to keep trying and succeed. Your determination knows no bounds. It is your key to freeing yourself from the chains of your curse. 
+Falling off is simply another reason to try again!
 
 Have fun! 🎮
 
@@ -44,15 +41,13 @@ sound designer: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>
 The Bouncy Journey este un simplu joc de tip platformer.
 ## 🎮 Gameplay
 
-Obiectivul este simplu: traverseaza padurea si rercupereaza-ti sufletul. Daca esuezi acesta va fi pierdut pe vecie.
+Obiectivul este simplu: traverseaza padurea si recupereaza-ti sufletul.
+Daca esuezi, ramai blocat in pustietate pentru totdeauna, blestemat sa incerci sau sa esuezi o vesnicie intreaga.
 
-## 💀 Încă O Șansă
+## Mereu vei putea reincerca!
 
-Ai la dispoziție **o singură șansă de a reveni la viață pe nivel**, folosindu-ți abilitatea de a te reînvia.
-
-Dacă mori încă o dată, **tot progresul tău este pierdut**.
-
-Alege-ți mișcările cu grijă. Fiecare viață contează!
+Tot ce poti face este sa continui sa incerci pana reusesti. Determinarea ta nu cunoaste limite. Ea este cheia prin care te poti elibera din lanturile blestemului tau. 
+Un esec este, pur si simplu, un motiv in plus sa incerci din nou!
 
 Distracție plăcută! 🎮
 
