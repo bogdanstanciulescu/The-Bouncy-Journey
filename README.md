@@ -34,7 +34,7 @@ The Bouncy Journey a început ca un simplu joc de tip platformer, dar în cele d
 
 Obiectivul este simplu: **învinge toți inamicii**, obține victoria și salvează-ți sufletul de la damnarea eternă!
 
-Atacurile tale sunt exclusiv corp la corp, iar sănătatea este limitată. Cu toate acestea, agilitatea ta ar trebui să fie suficientă pentru a învinge orice ființă malefică îți iese în cale!
+Atacurile tale sunt exclusiv **corp la corp**, iar sănătatea este limitată. Cu toate acestea, agilitatea ta ar trebui să fie suficientă pentru a învinge orice ființă malefică îți iese în cale!
 
 Ai grijă, totuși... sufletul tău este prețul înfrângerii.
 
