@@ -27,12 +27,12 @@ background design: inspiration: https://ro.pinterest.com/
 source soundtrack: https://freesound.org/people/juskiddink/sounds/68378/
 
 # The Team:
-programmer: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
+programmer: <a href="https://github.com/bogdanstanciulescu">Stănciulescu Bogdan</a>
 graphic designer: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
-sound designer, asset designer and page editor: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
+sound designer, asset designer and page editor: <a href="https://github.com/FlyinAlex1907">Dragomir Alexandru</a>                      
 
 
-# ROMANA:
+# ROMANIAN:
 
 ## Despre Joc
 
@@ -60,7 +60,6 @@ soundtrack sursa: https://freesound.org/people/juskiddink/sounds/68378/
 
 
 # Echipa:
-programator: <a href="https://github.com/bogdanstanciulescu">Bogdan Stanciulescu</a>
+programator și editor pagină: <a href="https://github.com/bogdanstanciulescu">Stănciulescu Bogdan</a>
 designer grafica: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
-designer sunet, designer de asset-uri si editor pagina: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
-
+designer sunet, designer de asset-uri și editor pagină: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
