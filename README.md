@@ -62,4 +62,4 @@ soundtrack sursa: https://freesound.org/people/juskiddink/sounds/68378/
 # Echipa:
 programator și editor pagină: <a href="https://github.com/bogdanstanciulescu">Stănciulescu Bogdan</a>
 designer grafica: <a href="https://github.com/andreianicac-lgtm">Nica Andreia</a>
-designer sunet, designer de asset-uri și editor pagină: <a href="https://github.com/FlyinAlex1907">Dragomir Alex</a>                      
+designer sunet, designer de asset-uri și editor pagină: <a href="https://github.com/FlyinAlex1907">Dragomir Alexandru</a>                      
